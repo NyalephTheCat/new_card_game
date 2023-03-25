@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "eihwaz", # Backend
+    "ansuz" # Frontend
+]
+
